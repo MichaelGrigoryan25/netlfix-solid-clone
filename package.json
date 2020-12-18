@@ -6,7 +6,9 @@
     "solid-js": "^0.23.3",
     "solid-scripts": "0.0.49"
   },
-  "dependencies": {},
+  "dependencies": {
+    "axios": "^0.21.0"
+  },
   "scripts": {
     "start": "solid-scripts start",
     "build": "solid-scripts build",
